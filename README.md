@@ -1,17 +1,9 @@
 ## 🔍 Detail  
 [🔗 이력서 🔗](https://www.notion.so/2827298af01741d2b520ea66faebc221)  
-[🔗 ~~포트폴리오~~ 🔗]() (공사중)
 ---  
 ## 📚 Skills
 ### 가장 자신 있는 친구들
 <div align=left> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
