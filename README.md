@@ -1,5 +1,3 @@
-```
-```
 ---  
 ## 🔍 Detail  
 [🔗 이력서 🔗](https://www.notion.so/2827298af01741d2b520ea66faebc221)  
